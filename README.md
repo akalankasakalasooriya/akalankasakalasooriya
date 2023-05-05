@@ -12,7 +12,8 @@
 
 	
 ## 🧑‍💻 **About me**
-
+An active, self-learning, multi-skilled, positive-thinking machine learning engineer with work experience in implementing 
+production level machine learning models and backend systems.
 <br>
 
 - 📫 How to reach me -> [LinkedIn](https://www.linkedin.com/in/akalanka-sakalasooriya/)
