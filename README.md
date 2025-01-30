@@ -18,7 +18,6 @@ production level machine learning models and backend systems.
 
 - 📫 How to reach me -> [LinkedIn](https://www.linkedin.com/in/akalanka-sakalasooriya/)
 - 💬 Ask me about -> **Machine Learning**
-- 🐳 I’m currently open for new job opportunities
 
 <br>
 <details>
